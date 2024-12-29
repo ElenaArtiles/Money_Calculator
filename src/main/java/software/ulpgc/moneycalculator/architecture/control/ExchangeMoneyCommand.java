@@ -1,12 +1,12 @@
-package software.ulpgc.moneycalculator.control;
+package software.ulpgc.moneycalculator.architecture.control;
 
-import software.ulpgc.moneycalculator.view.CurrencyDialog;
-import software.ulpgc.moneycalculator.persistence.ExchangeRateLoader;
-import software.ulpgc.moneycalculator.view.MoneyDialog;
-import software.ulpgc.moneycalculator.view.MoneyDisplay;
-import software.ulpgc.moneycalculator.model.Currency;
-import software.ulpgc.moneycalculator.model.ExchangeRate;
-import software.ulpgc.moneycalculator.model.Money;
+import software.ulpgc.moneycalculator.architecture.view.CurrencyDialog;
+import software.ulpgc.moneycalculator.architecture.persistence.ExchangeRateLoader;
+import software.ulpgc.moneycalculator.architecture.view.MoneyDialog;
+import software.ulpgc.moneycalculator.architecture.view.MoneyDisplay;
+import software.ulpgc.moneycalculator.architecture.model.Currency;
+import software.ulpgc.moneycalculator.architecture.model.ExchangeRate;
+import software.ulpgc.moneycalculator.architecture.model.Money;
 
 import java.io.IOException;
 

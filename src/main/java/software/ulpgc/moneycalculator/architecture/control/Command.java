@@ -1,4 +1,4 @@
-package software.ulpgc.moneycalculator.control;
+package software.ulpgc.moneycalculator.architecture.control;
 
 import java.io.IOException;
 
